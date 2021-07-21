@@ -7,3 +7,6 @@ Sunset Code does not collect or use any of your personal data. The data that it 
 ## Future Amendments
 
 This privacy policy is subject to change. Please check back regularly to familiarize yourself with any modifications that may be made.
+
+
+If you have any concerns, feel free to contact sunsetcode@gmail.com.
