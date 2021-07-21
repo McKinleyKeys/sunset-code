@@ -2,7 +2,7 @@
 
 ## Information and Use
 
-Sunset Code does not collect or use any of your personal data. The data that it does collect (including, but not limited to, font and color scheme preferences) is not personal and is only stored locally on your computer. Sunset Code does not access the Internet and does not distribute this data to third parties.
+Sunset Code does not collect or use any of your personal data. The data that it does collect (such as font and color scheme preferences) is not personal and is only stored locally on your computer. Sunset Code does not access the Internet and does not distribute any data to third parties.
 
 ## Future Amendments
 
