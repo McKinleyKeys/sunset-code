@@ -8,5 +8,7 @@ Sunset Code does not collect or use any of your personal data. The data that it 
 
 This privacy policy is subject to change. Please check back regularly to familiarize yourself with any modifications that may be made.
 
+<br>
+<br>
 
-If you have any concerns, feel free to contact sunsetcode@gmail.com.
+If you have any concerns, feel free to contact mckinley.keys@gmail.com.
